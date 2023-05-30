@@ -153,3 +153,11 @@ body{
     width: 75em;
     display: inline-block;
 }
+
+@media screen and (max-width: 786px){
+    
+    .container{
+        display: block;
+        background-image: none;
+    }
+}
